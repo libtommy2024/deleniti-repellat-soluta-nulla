@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/deleniti-repellat-soluta-nulla",
-  "version": "17.41.457",
+  "version": "17.41.458",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -262,5 +262,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/deleniti-repellat-soluta-nulla/issues"
   },
-  "packageManager": "yarn@4.9.4"
+  "packageManager": "yarn@4.10.2"
 }
